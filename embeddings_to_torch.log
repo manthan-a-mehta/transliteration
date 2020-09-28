@@ -1,0 +1,458 @@
+[2019-05-30 20:57:23,279 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/data.vocab.pt
+[2019-05-30 20:57:23,280 INFO] 	* source vocab: 14566 words
+[2019-05-30 20:57:23,281 INFO] 	* target vocab: 9399 words
+[2019-05-30 20:57:23,281 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/as_100.emb
+[2019-05-30 20:57:23,394 INFO] 	Found 3368 total vectors in file.
+[2019-05-30 20:57:23,395 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/en_100.emb
+[2019-05-30 20:57:23,503 INFO] 	Found 3150 total vectors in file
+[2019-05-30 20:57:23,503 INFO] After filtering to vectors in vocab:
+[2019-05-30 20:57:23,504 INFO] 	* enc: 3367 match, 11199 missing, (23.12%)
+[2019-05-30 20:57:23,505 INFO] 	* dec: 0 match, 9399 missing, (0.00%)
+[2019-05-30 20:57:23,505 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_100.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_100.dec.pt
+[2019-05-30 20:57:23,829 INFO] 
+Done.
+[2019-05-30 20:57:24,045 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/data.vocab.pt
+[2019-05-30 20:57:24,052 INFO] 	* source vocab: 14566 words
+[2019-05-30 20:57:24,052 INFO] 	* target vocab: 9399 words
+[2019-05-30 20:57:24,052 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/as_100.emb
+[2019-05-30 20:57:24,150 INFO] 	Found 3368 total vectors in file.
+[2019-05-30 20:57:24,150 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/en_100.emb
+[2019-05-30 20:57:24,240 INFO] 	Found 3150 total vectors in file
+[2019-05-30 20:57:24,240 INFO] After filtering to vectors in vocab:
+[2019-05-30 20:57:24,241 INFO] 	* enc: 3367 match, 11199 missing, (23.12%)
+[2019-05-30 20:57:24,242 INFO] 	* dec: 0 match, 9399 missing, (0.00%)
+[2019-05-30 20:57:24,242 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_100.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_100.dec.pt
+[2019-05-30 20:57:24,427 INFO] 
+Done.
+[2019-05-30 20:59:35,832 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/data.vocab.pt
+[2019-05-30 20:59:35,845 INFO] 	* source vocab: 14566 words
+[2019-05-30 20:59:35,845 INFO] 	* target vocab: 9399 words
+[2019-05-30 20:59:35,845 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/as_200.emb
+[2019-05-30 20:59:36,078 INFO] 	Found 3368 total vectors in file.
+[2019-05-30 20:59:36,078 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/en_200.emb
+[2019-05-30 20:59:36,343 INFO] 	Found 3150 total vectors in file
+[2019-05-30 20:59:36,344 INFO] After filtering to vectors in vocab:
+[2019-05-30 20:59:36,345 INFO] 	* enc: 3367 match, 11199 missing, (23.12%)
+[2019-05-30 20:59:36,346 INFO] 	* dec: 0 match, 9399 missing, (0.00%)
+[2019-05-30 20:59:36,346 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_200.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_200.dec.pt
+[2019-05-30 20:59:36,459 INFO] 
+Done.
+[2019-05-30 20:59:36,490 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/data.vocab.pt
+[2019-05-30 20:59:36,494 INFO] 	* source vocab: 14566 words
+[2019-05-30 20:59:36,494 INFO] 	* target vocab: 9399 words
+[2019-05-30 20:59:36,495 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/as_200.emb
+[2019-05-30 20:59:36,681 INFO] 	Found 3368 total vectors in file.
+[2019-05-30 20:59:36,681 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/en_200.emb
+[2019-05-30 20:59:36,860 INFO] 	Found 3150 total vectors in file
+[2019-05-30 20:59:36,860 INFO] After filtering to vectors in vocab:
+[2019-05-30 20:59:36,862 INFO] 	* enc: 3367 match, 11199 missing, (23.12%)
+[2019-05-30 20:59:36,863 INFO] 	* dec: 0 match, 9399 missing, (0.00%)
+[2019-05-30 20:59:36,863 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_200.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_200.dec.pt
+[2019-05-30 20:59:37,085 INFO] 
+Done.
+[2019-05-30 21:00:08,144 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/data.vocab.pt
+[2019-05-30 21:00:08,156 INFO] 	* source vocab: 4826 words
+[2019-05-30 21:00:08,156 INFO] 	* target vocab: 4544 words
+[2019-05-30 21:00:08,156 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/gu_100.emb
+[2019-05-30 21:00:08,188 INFO] 	Found 905 total vectors in file.
+[2019-05-30 21:00:08,189 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/en_100.emb
+[2019-05-30 21:00:08,262 INFO] 	Found 864 total vectors in file
+[2019-05-30 21:00:08,262 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:00:08,263 INFO] 	* enc: 904 match, 3922 missing, (18.73%)
+[2019-05-30 21:00:08,263 INFO] 	* dec: 1 match, 4543 missing, (0.02%)
+[2019-05-30 21:00:08,263 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_100.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_100.dec.pt
+[2019-05-30 21:00:08,285 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/data.vocab.pt
+[2019-05-30 21:00:08,289 INFO] 	* source vocab: 4826 words
+[2019-05-30 21:00:08,289 INFO] 	* target vocab: 4544 words
+[2019-05-30 21:00:08,289 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/gu_100.emb
+[2019-05-30 21:00:08,320 INFO] 	Found 905 total vectors in file.
+[2019-05-30 21:00:08,320 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/en_100.emb
+[2019-05-30 21:00:08,349 INFO] 	Found 864 total vectors in file
+[2019-05-30 21:00:08,349 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:00:08,349 INFO] 	* enc: 904 match, 3922 missing, (18.73%)
+[2019-05-30 21:00:08,350 INFO] 	* dec: 1 match, 4543 missing, (0.02%)
+[2019-05-30 21:00:08,350 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_100.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_100.dec.pt
+[2019-05-30 21:00:08,552 INFO] 
+Done.
+[2019-05-30 21:00:08,604 INFO] 
+Done.
+[2019-05-30 21:00:32,394 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/data.vocab.pt
+[2019-05-30 21:00:32,402 INFO] 	* source vocab: 4826 words
+[2019-05-30 21:00:32,402 INFO] 	* target vocab: 4544 words
+[2019-05-30 21:00:32,402 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/gu_200.emb
+[2019-05-30 21:00:32,490 INFO] 	Found 905 total vectors in file.
+[2019-05-30 21:00:32,490 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/en_200.emb
+[2019-05-30 21:00:32,551 INFO] 	Found 864 total vectors in file
+[2019-05-30 21:00:32,551 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:00:32,551 INFO] 	* enc: 904 match, 3922 missing, (18.73%)
+[2019-05-30 21:00:32,552 INFO] 	* dec: 1 match, 4543 missing, (0.02%)
+[2019-05-30 21:00:32,552 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_200.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_200.dec.pt
+[2019-05-30 21:00:32,590 INFO] 
+Done.
+[2019-05-30 21:00:32,614 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/data.vocab.pt
+[2019-05-30 21:00:32,617 INFO] 	* source vocab: 4826 words
+[2019-05-30 21:00:32,617 INFO] 	* target vocab: 4544 words
+[2019-05-30 21:00:32,617 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/gu_200.emb
+[2019-05-30 21:00:32,619 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/data.vocab.pt
+[2019-05-30 21:00:32,622 INFO] 	* source vocab: 7621 words
+[2019-05-30 21:00:32,622 INFO] 	* target vocab: 8759 words
+[2019-05-30 21:00:32,622 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/hi_100.emb
+[2019-05-30 21:00:32,672 INFO] 	Found 905 total vectors in file.
+[2019-05-30 21:00:32,675 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/en_200.emb
+[2019-05-30 21:00:32,697 INFO] 	Found 1909 total vectors in file.
+[2019-05-30 21:00:32,699 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/en_100.emb
+[2019-05-30 21:00:32,726 INFO] 	Found 864 total vectors in file
+[2019-05-30 21:00:32,729 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:00:32,730 INFO] 	* enc: 904 match, 3922 missing, (18.73%)
+[2019-05-30 21:00:32,730 INFO] 	* dec: 1 match, 4543 missing, (0.02%)
+[2019-05-30 21:00:32,730 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_200.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_200.dec.pt
+[2019-05-30 21:00:32,817 INFO] 	Found 2004 total vectors in file
+[2019-05-30 21:00:32,821 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/data.vocab.pt
+[2019-05-30 21:00:32,821 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:00:32,825 INFO] 	* source vocab: 7621 words
+[2019-05-30 21:00:32,826 INFO] 	* enc: 1863 match, 5758 missing, (24.45%)
+[2019-05-30 21:00:32,829 INFO] 	* target vocab: 8759 words
+[2019-05-30 21:00:32,829 INFO] 	* dec: 0 match, 8759 missing, (0.00%)
+[2019-05-30 21:00:32,832 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/hi_100.emb
+[2019-05-30 21:00:32,831 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/embeddings_100.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/embeddings_100.dec.pt
+[2019-05-30 21:00:32,894 INFO] 	Found 1909 total vectors in file.
+[2019-05-30 21:00:32,897 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/en_100.emb
+[2019-05-30 21:00:32,901 INFO] 
+Done.
+[2019-05-30 21:00:32,956 INFO] 	Found 2004 total vectors in file
+[2019-05-30 21:00:32,959 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:00:32,959 INFO] 	* enc: 1863 match, 5758 missing, (24.45%)
+[2019-05-30 21:00:32,960 INFO] 	* dec: 0 match, 8759 missing, (0.00%)
+[2019-05-30 21:00:32,960 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/embeddings_100.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/embeddings_100.dec.pt
+[2019-05-30 21:00:33,083 INFO] 
+Done.
+[2019-05-30 21:00:33,204 INFO] 
+Done.
+[2019-05-30 21:00:39,026 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/data.vocab.pt
+[2019-05-30 21:00:39,027 INFO] 	* source vocab: 10640 words
+[2019-05-30 21:00:39,028 INFO] 	* target vocab: 9516 words
+[2019-05-30 21:00:39,028 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/bn_100.emb
+[2019-05-30 21:00:39,136 INFO] 	Found 2870 total vectors in file.
+[2019-05-30 21:00:39,136 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/en_100.emb
+[2019-05-30 21:00:39,391 INFO] 	Found 2800 total vectors in file
+[2019-05-30 21:00:39,391 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:00:39,392 INFO] 	* enc: 2663 match, 7977 missing, (25.03%)
+[2019-05-30 21:00:39,393 INFO] 	* dec: 1 match, 9515 missing, (0.01%)
+[2019-05-30 21:00:39,393 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_100.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_100.dec.pt
+[2019-05-30 21:00:39,478 INFO] 
+Done.
+[2019-05-30 21:00:39,645 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/data.vocab.pt
+[2019-05-30 21:00:39,648 INFO] 	* source vocab: 10640 words
+[2019-05-30 21:00:39,649 INFO] 	* target vocab: 9516 words
+[2019-05-30 21:00:39,649 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/bn_100.emb
+[2019-05-30 21:00:39,728 INFO] 	Found 2870 total vectors in file.
+[2019-05-30 21:00:39,728 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/en_100.emb
+[2019-05-30 21:00:39,802 INFO] 	Found 2800 total vectors in file
+[2019-05-30 21:00:39,802 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:00:39,803 INFO] 	* enc: 2663 match, 7977 missing, (25.03%)
+[2019-05-30 21:00:39,804 INFO] 	* dec: 1 match, 9515 missing, (0.01%)
+[2019-05-30 21:00:39,804 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_100.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_100.dec.pt
+[2019-05-30 21:00:39,984 INFO] 
+Done.
+[2019-05-30 21:00:58,013 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/data.vocab.pt
+[2019-05-30 21:00:58,025 INFO] 	* source vocab: 4826 words
+[2019-05-30 21:00:58,025 INFO] 	* target vocab: 4544 words
+[2019-05-30 21:00:58,026 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/gu_300.emb
+[2019-05-30 21:00:58,108 INFO] 	Found 905 total vectors in file.
+[2019-05-30 21:00:58,108 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/en_300.emb
+[2019-05-30 21:00:58,200 INFO] 	Found 864 total vectors in file
+[2019-05-30 21:00:58,200 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:00:58,200 INFO] 	* enc: 904 match, 3922 missing, (18.73%)
+[2019-05-30 21:00:58,200 INFO] 	* dec: 1 match, 4543 missing, (0.02%)
+[2019-05-30 21:00:58,201 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_300.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_300.dec.pt
+[2019-05-30 21:00:58,249 INFO] 
+Done.
+[2019-05-30 21:00:58,413 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/data.vocab.pt
+[2019-05-30 21:00:58,436 INFO] 	* source vocab: 4826 words
+[2019-05-30 21:00:58,436 INFO] 	* target vocab: 4544 words
+[2019-05-30 21:00:58,436 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/gu_300.emb
+[2019-05-30 21:00:58,517 INFO] 	Found 905 total vectors in file.
+[2019-05-30 21:00:58,517 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/en_300.emb
+[2019-05-30 21:00:58,589 INFO] 	Found 864 total vectors in file
+[2019-05-30 21:00:58,589 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:00:58,589 INFO] 	* enc: 904 match, 3922 missing, (18.73%)
+[2019-05-30 21:00:58,590 INFO] 	* dec: 1 match, 4543 missing, (0.02%)
+[2019-05-30 21:00:58,590 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_300.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/gu-en/embeddings_300.dec.pt
+[2019-05-30 21:00:58,798 INFO] 
+Done.
+[2019-05-30 21:01:25,014 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/data.vocab.pt
+[2019-05-30 21:01:25,016 INFO] 	* source vocab: 7621 words
+[2019-05-30 21:01:25,017 INFO] 	* target vocab: 8759 words
+[2019-05-30 21:01:25,017 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/hi_200.emb
+[2019-05-30 21:01:25,179 INFO] 	Found 1909 total vectors in file.
+[2019-05-30 21:01:25,179 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/en_200.emb
+[2019-05-30 21:01:25,227 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/data.vocab.pt
+[2019-05-30 21:01:25,258 INFO] 	* source vocab: 7621 words
+[2019-05-30 21:01:25,258 INFO] 	* target vocab: 8759 words
+[2019-05-30 21:01:25,258 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/hi_200.emb
+[2019-05-30 21:01:25,336 INFO] 	Found 2004 total vectors in file
+[2019-05-30 21:01:25,341 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:01:25,342 INFO] 	* enc: 1863 match, 5758 missing, (24.45%)
+[2019-05-30 21:01:25,343 INFO] 	* dec: 0 match, 8759 missing, (0.00%)
+[2019-05-30 21:01:25,343 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/embeddings_200.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/embeddings_200.dec.pt
+[2019-05-30 21:01:25,370 INFO] 	Found 1909 total vectors in file.
+[2019-05-30 21:01:25,374 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/en_200.emb
+[2019-05-30 21:01:25,422 INFO] 
+Done.
+[2019-05-30 21:01:25,519 INFO] 	Found 2004 total vectors in file
+[2019-05-30 21:01:25,524 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:01:25,525 INFO] 	* enc: 1863 match, 5758 missing, (24.45%)
+[2019-05-30 21:01:25,526 INFO] 	* dec: 0 match, 8759 missing, (0.00%)
+[2019-05-30 21:01:25,526 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/embeddings_200.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/embeddings_200.dec.pt
+[2019-05-30 21:01:25,703 INFO] 
+Done.
+[2019-05-30 21:01:36,725 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/data.vocab.pt
+[2019-05-30 21:01:36,748 INFO] 	* source vocab: 4793 words
+[2019-05-30 21:01:36,748 INFO] 	* target vocab: 4569 words
+[2019-05-30 21:01:36,748 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/kn_100.emb
+[2019-05-30 21:01:36,784 INFO] 	Found 907 total vectors in file.
+[2019-05-30 21:01:36,784 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/en_100.emb
+[2019-05-30 21:01:36,833 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/data.vocab.pt
+[2019-05-30 21:01:36,860 INFO] 	* source vocab: 4793 words
+[2019-05-30 21:01:36,860 INFO] 	* target vocab: 4569 words
+[2019-05-30 21:01:36,860 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/kn_100.emb
+[2019-05-30 21:01:36,861 INFO] 	Found 864 total vectors in file
+[2019-05-30 21:01:36,864 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:01:36,865 INFO] 	* enc: 905 match, 3888 missing, (18.88%)
+[2019-05-30 21:01:36,865 INFO] 	* dec: 1 match, 4568 missing, (0.02%)
+[2019-05-30 21:01:36,865 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_100.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_100.dec.pt
+[2019-05-30 21:01:36,892 INFO] 	Found 907 total vectors in file.
+[2019-05-30 21:01:36,896 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/en_100.emb
+[2019-05-30 21:01:36,925 INFO] 	Found 864 total vectors in file
+[2019-05-30 21:01:36,925 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:01:36,926 INFO] 	* enc: 905 match, 3888 missing, (18.88%)
+[2019-05-30 21:01:36,926 INFO] 	* dec: 1 match, 4568 missing, (0.02%)
+[2019-05-30 21:01:36,926 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_100.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_100.dec.pt
+[2019-05-30 21:01:37,130 INFO] 
+Done.
+[2019-05-30 21:01:37,209 INFO] 
+Done.
+[2019-05-30 21:01:51,657 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/data.vocab.pt
+[2019-05-30 21:01:51,659 INFO] 	* source vocab: 14566 words
+[2019-05-30 21:01:51,659 INFO] 	* target vocab: 9399 words
+[2019-05-30 21:01:51,659 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/as_300.emb
+[2019-05-30 21:01:52,064 INFO] 	Found 3368 total vectors in file.
+[2019-05-30 21:01:52,064 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/en_300.emb
+[2019-05-30 21:01:52,069 INFO] 	Found 0 total vectors in file
+[2019-05-30 21:01:52,069 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:01:52,071 INFO] 	* enc: 3367 match, 11199 missing, (23.12%)
+[2019-05-30 21:01:52,072 INFO] 	* dec: 0 match, 9399 missing, (0.00%)
+[2019-05-30 21:01:52,072 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_300.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_300.dec.pt
+[2019-05-30 21:01:53,561 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/data.vocab.pt
+[2019-05-30 21:01:53,587 INFO] 	* source vocab: 14566 words
+[2019-05-30 21:01:53,587 INFO] 	* target vocab: 9399 words
+[2019-05-30 21:01:53,587 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/as_300.emb
+[2019-05-30 21:01:53,869 INFO] 	Found 3368 total vectors in file.
+[2019-05-30 21:01:53,869 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/en_300.emb
+[2019-05-30 21:01:54,113 INFO] 	Found 3150 total vectors in file
+[2019-05-30 21:01:54,113 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:01:54,114 INFO] 	* enc: 3367 match, 11199 missing, (23.12%)
+[2019-05-30 21:01:54,115 INFO] 	* dec: 0 match, 9399 missing, (0.00%)
+[2019-05-30 21:01:54,116 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_300.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/as-en/embeddings_300.dec.pt
+[2019-05-30 21:01:54,309 INFO] 
+Done.
+[2019-05-30 21:02:01,096 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/data.vocab.pt
+[2019-05-30 21:02:01,121 INFO] 	* source vocab: 4793 words
+[2019-05-30 21:02:01,121 INFO] 	* target vocab: 4569 words
+[2019-05-30 21:02:01,121 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/kn_200.emb
+[2019-05-30 21:02:01,134 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/data.vocab.pt
+[2019-05-30 21:02:01,137 INFO] 	* source vocab: 4793 words
+[2019-05-30 21:02:01,137 INFO] 	* target vocab: 4569 words
+[2019-05-30 21:02:01,137 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/kn_200.emb
+[2019-05-30 21:02:01,179 INFO] 	Found 906 total vectors in file.
+[2019-05-30 21:02:01,182 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/en_200.emb
+[2019-05-30 21:02:01,193 INFO] 	Found 906 total vectors in file.
+[2019-05-30 21:02:01,196 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/en_200.emb
+[2019-05-30 21:02:01,271 INFO] 	Found 865 total vectors in file
+[2019-05-30 21:02:01,272 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:02:01,272 INFO] 	* enc: 905 match, 3888 missing, (18.88%)
+[2019-05-30 21:02:01,272 INFO] 	* dec: 1 match, 4568 missing, (0.02%)
+[2019-05-30 21:02:01,272 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_200.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_200.dec.pt
+[2019-05-30 21:02:01,284 INFO] 	Found 865 total vectors in file
+[2019-05-30 21:02:01,287 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:02:01,288 INFO] 	* enc: 905 match, 3888 missing, (18.88%)
+[2019-05-30 21:02:01,288 INFO] 	* dec: 1 match, 4568 missing, (0.02%)
+[2019-05-30 21:02:01,288 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_200.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_200.dec.pt
+[2019-05-30 21:02:01,312 INFO] 
+Done.
+[2019-05-30 21:02:01,434 INFO] 
+Done.
+[2019-05-30 21:02:14,169 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/data.vocab.pt
+[2019-05-30 21:02:14,171 INFO] 	* source vocab: 10640 words
+[2019-05-30 21:02:14,172 INFO] 	* target vocab: 9516 words
+[2019-05-30 21:02:14,172 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/bn_200.emb
+[2019-05-30 21:02:14,365 INFO] 	Found 2870 total vectors in file.
+[2019-05-30 21:02:14,365 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/en_200.emb
+[2019-05-30 21:02:14,571 INFO] 	Found 2800 total vectors in file
+[2019-05-30 21:02:14,571 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:02:14,572 INFO] 	* enc: 2663 match, 7977 missing, (25.03%)
+[2019-05-30 21:02:14,573 INFO] 	* dec: 1 match, 9515 missing, (0.01%)
+[2019-05-30 21:02:14,573 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_200.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_200.dec.pt
+[2019-05-30 21:02:14,673 INFO] 
+Done.
+[2019-05-30 21:02:15,083 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/data.vocab.pt
+[2019-05-30 21:02:15,087 INFO] 	* source vocab: 10640 words
+[2019-05-30 21:02:15,088 INFO] 	* target vocab: 9516 words
+[2019-05-30 21:02:15,088 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/bn_200.emb
+[2019-05-30 21:02:15,242 INFO] 	Found 2870 total vectors in file.
+[2019-05-30 21:02:15,242 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/en_200.emb
+[2019-05-30 21:02:15,387 INFO] 	Found 2800 total vectors in file
+[2019-05-30 21:02:15,387 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:02:15,388 INFO] 	* enc: 2663 match, 7977 missing, (25.03%)
+[2019-05-30 21:02:15,389 INFO] 	* dec: 1 match, 9515 missing, (0.01%)
+[2019-05-30 21:02:15,389 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_200.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_200.dec.pt
+[2019-05-30 21:02:15,595 INFO] 
+Done.
+[2019-05-30 21:02:19,647 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/data.vocab.pt
+[2019-05-30 21:02:19,653 INFO] 	* source vocab: 7621 words
+[2019-05-30 21:02:19,654 INFO] 	* target vocab: 8759 words
+[2019-05-30 21:02:19,654 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/hi_300.emb
+[2019-05-30 21:02:19,811 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/data.vocab.pt
+[2019-05-30 21:02:19,826 INFO] 	* source vocab: 7621 words
+[2019-05-30 21:02:19,826 INFO] 	* target vocab: 8759 words
+[2019-05-30 21:02:19,826 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/hi_300.emb
+[2019-05-30 21:02:19,850 INFO] 	Found 1909 total vectors in file.
+[2019-05-30 21:02:19,869 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/en_300.emb
+[2019-05-30 21:02:19,990 INFO] 	Found 1909 total vectors in file.
+[2019-05-30 21:02:19,994 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/hi-en/en_300.emb
+[2019-05-30 21:02:26,754 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/data.vocab.pt
+[2019-05-30 21:02:26,756 INFO] 	* source vocab: 4793 words
+[2019-05-30 21:02:26,756 INFO] 	* target vocab: 4569 words
+[2019-05-30 21:02:26,756 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/kn_300.emb
+[2019-05-30 21:02:26,849 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/data.vocab.pt
+[2019-05-30 21:02:26,859 INFO] 	Found 906 total vectors in file.
+[2019-05-30 21:02:26,881 INFO] 	* source vocab: 4793 words
+[2019-05-30 21:02:26,883 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/en_300.emb
+[2019-05-30 21:02:26,886 INFO] 	* target vocab: 4569 words
+[2019-05-30 21:02:26,890 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/kn_300.emb
+[2019-05-30 21:02:26,972 INFO] 	Found 906 total vectors in file.
+[2019-05-30 21:02:26,972 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/en_300.emb
+[2019-05-30 21:02:27,013 INFO] 	Found 864 total vectors in file
+[2019-05-30 21:02:27,017 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:02:27,017 INFO] 	* enc: 905 match, 3888 missing, (18.88%)
+[2019-05-30 21:02:27,017 INFO] 	* dec: 1 match, 4568 missing, (0.02%)
+[2019-05-30 21:02:27,018 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_300.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_300.dec.pt
+[2019-05-30 21:02:27,044 INFO] 	Found 864 total vectors in file
+[2019-05-30 21:02:27,047 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:02:27,047 INFO] 	* enc: 905 match, 3888 missing, (18.88%)
+[2019-05-30 21:02:27,048 INFO] 	* dec: 1 match, 4568 missing, (0.02%)
+[2019-05-30 21:02:27,048 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_300.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/kn-en/embeddings_300.dec.pt
+[2019-05-30 21:02:27,074 INFO] 
+Done.
+[2019-05-30 21:02:27,192 INFO] 
+Done.
+[2019-05-30 21:03:52,056 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/data.vocab.pt
+[2019-05-30 21:03:52,058 INFO] 	* source vocab: 10640 words
+[2019-05-30 21:03:52,058 INFO] 	* target vocab: 9516 words
+[2019-05-30 21:03:52,058 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/bn_300.emb
+[2019-05-30 21:03:52,400 INFO] 	Found 2870 total vectors in file.
+[2019-05-30 21:03:52,401 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/en_300.emb
+[2019-05-30 21:03:52,722 INFO] 	Found 2800 total vectors in file
+[2019-05-30 21:03:52,722 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:03:52,723 INFO] 	* enc: 2663 match, 7977 missing, (25.03%)
+[2019-05-30 21:03:52,724 INFO] 	* dec: 1 match, 9515 missing, (0.01%)
+[2019-05-30 21:03:52,724 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_300.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_300.dec.pt
+[2019-05-30 21:03:52,847 INFO] 
+Done.
+[2019-05-30 21:03:53,151 INFO] From: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/data.vocab.pt
+[2019-05-30 21:03:53,155 INFO] 	* source vocab: 10640 words
+[2019-05-30 21:03:53,155 INFO] 	* target vocab: 9516 words
+[2019-05-30 21:03:53,155 INFO] Reading encoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/bn_300.emb
+[2019-05-30 21:03:53,390 INFO] 	Found 2870 total vectors in file.
+[2019-05-30 21:03:53,390 INFO] Reading decoder embeddings from /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/en_300.emb
+[2019-05-30 21:03:53,629 INFO] 	Found 2800 total vectors in file
+[2019-05-30 21:03:53,629 INFO] After filtering to vectors in vocab:
+[2019-05-30 21:03:53,630 INFO] 	* enc: 2663 match, 7977 missing, (25.03%)
+[2019-05-30 21:03:53,631 INFO] 	* dec: 1 match, 9515 missing, (0.01%)
+[2019-05-30 21:03:53,631 INFO] 
+Saving embedding as:
+	* enc: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_300.enc.pt
+	* dec: /home/cfilt/154054002/parth/OS-NMT/Documents/Manuals/../../System/data/processed/bn-en/embeddings_300.dec.pt
+[2019-05-30 21:03:53,817 INFO] 
+Done.
